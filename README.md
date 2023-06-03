@@ -58,3 +58,16 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Akhil1939&hide_border=true&border_radius=12.2&mode=weekly)](https://git.io/streak-stats)
+
+<!-- <picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Akhil1939&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Akhil1939&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Akhil1939&show_icons=true" />
+</picture>
+ -->
